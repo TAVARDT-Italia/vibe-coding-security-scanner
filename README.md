@@ -1,4 +1,4 @@
-# TAVARDT Vibe Coding Security & AI Architecture Auditor (Italia)
+# Vibe Coding Security & AI Architecture Auditor
 
 Guida aziendale di architettura difensiva, mitigazione delle perdite di credenziali e strumento CLI deterministico per l audit di sicurezza delle applicazioni sviluppate con strumenti di IA (Vibe Coding).
 
@@ -53,6 +53,6 @@ Architettura difensiva e controlli di cybersicurezza conformi a GDPR, Linee Guid
 
 * **Pagina Ufficiale:** [https://tavardt-italia.github.io/vibe-coding-security-scanner/](https://tavardt-italia.github.io/vibe-coding-security-scanner/)
 * **Portale TAVARDT:** [https://ag.tavardt.com/it/](https://ag.tavardt.com/it/)
-* **Strumenti di Cybersicurezza:** [https://tools.tavardt.com/it/](https://tools.tavardt.com/it/)
+* **Strumenti:** [https://tools.tavardt.com/it/](https://tools.tavardt.com/it/)
 
 &copy; 2026 TAVARDT. Tutti i diritti riservati.
