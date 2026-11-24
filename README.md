@@ -57,10 +57,8 @@ Architettura difensiva e controlli di cybersicurezza conformi a GDPR, Linee Guid
 ## Collegamenti Ufficiali & Risorse
 
 * **Pagina Ufficiale:** [https://tavardt-italia.github.io/vibe-coding-security-scanner/](https://tavardt-italia.github.io/vibe-coding-security-scanner/)
-* **Portale TAVARDT:** [Portal Institucional](https://ag.tavardt.com/it/)
-* **Strumenti:** [Central de Ferramentas](https://tools.tavardt.com/it/)
-
-&copy; 2026 TAVARDT. Tutti i diritti riservati.
+* **Portale TAVARDT:** [Portale Istituzionale](https://ag.tavardt.com/it/)
+* **Strumenti:** [Centro Strumenti](https://tools.tavardt.com/it/)
 
 ***
 
