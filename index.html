@@ -711,6 +711,7 @@
       }
     }
   </style>
+  <meta property="og:image" content="https://tavardt-italia.github.io/vibe-coding-security-scanner/og-image.jpg">
 </head>
 <body>
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WXXHJ2TV"
@@ -1162,7 +1163,7 @@ if __name__ == "__main__":
     function copyCode() {
       const code = codeTemplates[activeTab];
       if (!code) return;
-      navigator.clipboard.writeText(code).then(() => {
+      if (navigator.clipboard) navigator.clipboard.writeText(code).catch(() => {}).then(() => {
         const btn = document.getElementById('btn-copy-code');
         const orig = btn.innerText;
         btn.innerText = 'Copiato!';
@@ -1172,7 +1173,7 @@ if __name__ == "__main__":
 
     function copyCliCommand() {
       const code = document.getElementById('cli-terminal-code').innerText;
-      navigator.clipboard.writeText(code).then(() => {
+      if (navigator.clipboard) navigator.clipboard.writeText(code).catch(() => {}).then(() => {
         const btn = document.getElementById('btn-copy-cli');
         const orig = btn.innerText;
         btn.innerText = 'Copiato!';
